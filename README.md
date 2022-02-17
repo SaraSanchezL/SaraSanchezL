@@ -7,4 +7,4 @@ I'm Sara, I'm frontend developer. I was looking for a change in my professional 
 - :dizzy: so I'm in the process of looking for a job.
 - :computer: Now I’m working on my portfolio! And thinking of new projects to practice :pencil:
 - 💬 Ask me about HTML, CSS, JavaScript, React, Git, Node JS, SQL... I will be happy to show what I have learned :blush:
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/sara-sanchezlopez/ | Twitter https://twitter.com/sarasanlop
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/sara-sanchezlopez/ | Twitter https://twitter.com/SaraSanchez_L
